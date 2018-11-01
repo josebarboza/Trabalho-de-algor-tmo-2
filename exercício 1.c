@@ -8,6 +8,8 @@
 #define coluna 10			//questões
 #define tam 10
 
+//Teste de commit
+
 int main(){
 	
 	setlocale(LC_ALL, "Portuguese");
