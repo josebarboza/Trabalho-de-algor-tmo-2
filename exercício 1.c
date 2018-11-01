@@ -8,7 +8,7 @@
 #define coluna 10			//questões
 #define tam 10
 
-//Teste de commit
+//Mais Teste
 
 int main(){
 	
@@ -78,6 +78,8 @@ int main(){
 		} while (m[i][j] < 1 && m[i][j] > 5);
 		
 	}//Fim if valores
+
+//Mais Teste
 
 	return 0;
 }
